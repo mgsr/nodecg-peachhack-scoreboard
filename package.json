@@ -21,7 +21,7 @@
     "nodecg-bundle"
   ],
   "nodecg": {
-    "compatibleRange": "~0.9.9",
+    "compatibleRange": ">1.0.0",
     "dashboardPanels": [
       {
         "name": "overlay-control",
